@@ -1,0 +1,28 @@
+p {
+    font-family: Roboto, Arial;
+}
+.thumbnail{
+    width: 300px;
+    display: block;
+}
+.video-title{
+    font-family: Roboto,arial;
+    font-size: 15px;
+    font-weight: 700px;
+
+}
+.video-author{
+    font-family: roboto;
+    font-size: 12px;
+}
+.video-stats{
+    font-family: roboto;
+    font-size: 14px;
+}
+.video-preview{
+    width: 300px;
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 15px;
+
+}
